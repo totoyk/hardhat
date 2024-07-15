@@ -1,4 +1,4 @@
-# trial-hardhat
+# hardhat
 
 ## Overview
 
